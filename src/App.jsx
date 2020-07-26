@@ -6,6 +6,22 @@ import AddNew from './Components/AddNew';
 
 
 class App extends Component {
+
+  state = {
+    citas: []
+  }
+
+  crearCita = (nuevaCita) => {
+    const citas = [
+      ...this.state.citas,
+      nuevaCita
+    ];
+    this.setState({
+      citas: citas
+    })
+
+  }
+
   render() {
     return (
       <div className="container">
@@ -14,7 +30,9 @@ class App extends Component {
         />
         <div className="row">
           <div className="col-md-6">
-            <AddNew />
+            <AddNew
+              crearCita={this.crearCita}
+            />
           </div>
         </div>
       </div>
