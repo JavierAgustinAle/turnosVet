@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/turnosVet/static/css/main.33116e20.chunk.css",
+    "main.js": "/turnosVet/static/js/main.b08359d7.chunk.js",
+    "main.js.map": "/turnosVet/static/js/main.b08359d7.chunk.js.map",
+    "runtime-main.js": "/turnosVet/static/js/runtime-main.c349f9f9.js",
+    "runtime-main.js.map": "/turnosVet/static/js/runtime-main.c349f9f9.js.map",
+    "static/js/2.bf470eb6.chunk.js": "/turnosVet/static/js/2.bf470eb6.chunk.js",
+    "static/js/2.bf470eb6.chunk.js.map": "/turnosVet/static/js/2.bf470eb6.chunk.js.map",
+    "index.html": "/turnosVet/index.html",
+    "precache-manifest.4e0f2be59628c76e2e984ac7fdb4d9fd.js": "/turnosVet/precache-manifest.4e0f2be59628c76e2e984ac7fdb4d9fd.js",
+    "service-worker.js": "/turnosVet/service-worker.js",
+    "static/css/main.33116e20.chunk.css.map": "/turnosVet/static/css/main.33116e20.chunk.css.map",
+    "static/js/2.bf470eb6.chunk.js.LICENSE.txt": "/turnosVet/static/js/2.bf470eb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c349f9f9.js",
+    "static/js/2.bf470eb6.chunk.js",
+    "static/css/main.33116e20.chunk.css",
+    "static/js/main.b08359d7.chunk.js"
+  ]
+}
