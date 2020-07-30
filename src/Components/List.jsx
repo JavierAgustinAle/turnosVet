@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 // Component
 import Appointment from './Appointment';
 
@@ -25,6 +26,11 @@ const List = props => {
             </div>
         </div>
     )
+}
+
+List.propTypes = {
+    citas: PropTypes.array.isRequired,
+    borrarCita: PropTypes.func.isRequired
 }
 
 export default List;

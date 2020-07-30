@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 
 const BtnDelete = props => {
@@ -7,6 +8,11 @@ const BtnDelete = props => {
             Delete &times;
         </button>
     )
+}
+
+BtnDelete.propTypes = {
+    borrarCita: PropTypes.func.isRequired,
+    id: PropTypes.string.isRequired
 }
 
 export default BtnDelete;

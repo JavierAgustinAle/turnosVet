@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import uuid from 'uuid';
+import uuid from 'uuid'; // Genera el ID aleatorio
+import PropTypes from 'prop-types';
 
 class AddNew extends Component {
     state = {}
@@ -88,6 +89,10 @@ class AddNew extends Component {
             </div>
         )
     }
+}
+
+AddNew.propTypes = {
+    crearCita: PropTypes.func.isRequired
 }
 
 export default AddNew;
