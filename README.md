@@ -9,7 +9,7 @@ FUNCIONES DE LA APP
 
 
 
-**Las citas creadas se almacenan en el Local Storage para ofrecer mas eprsistencia, hasta ser eliminadas en la aplicacion.**
+**Las citas creadas se almacenan en el Local Storage para ofrecer mas persistencia, hasta ser eliminadas en la aplicacion.**
 
 30/07/2020
 
