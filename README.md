@@ -1,3 +1,18 @@
+Manejo De Citas Para Veterinaria realizado usando React Js.
+======
+Click para verlo en funcionamiento [ManageVet](https://javieragustinale.github.io/turnosVet/). 
+----
+
+FUNCIONES DE LA APP
++ Esta aplicacion permite manejar y organizar las citas y turnos de nuestra veterinaria. 
++ Completando algunos datos, como el nombre de la mascota, fecha de la cita, etc, podemos agendar la cita.
+
+
+
+**Las citas creadas se almacenan en el Local Storage para ofrecer mas eprsistencia, hasta ser eliminadas en la aplicacion.**
+
+30/07/2020
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
