@@ -7,6 +7,8 @@ FUNCIONES DE LA APP
 + Esta aplicacion permite manejar y organizar las citas y turnos de nuestra veterinaria. 
 + Completando algunos datos, como el nombre de la mascota, fecha de la cita, etc, podemos agendar la cita.
 
+> Vista de la App.
+![Inicio](https://user-images.githubusercontent.com/39749087/106361378-61619d80-62fc-11eb-9cac-97ee13b40413.png)
 
 
 **Las citas creadas se almacenan en el Local Storage para ofrecer mas persistencia, hasta ser eliminadas en la aplicacion.**
